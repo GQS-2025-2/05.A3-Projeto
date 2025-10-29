@@ -24,7 +24,7 @@ O projeto deve ter **funcionalidades claras e testes automatizados** com base em
 
 2. **Grupo & Organização**  
    - Máximo de **8 integrantes**.  
-   - Criar uma **organização no GitHub** para o grupo e armazenar todo o código nela.  
+   - Criar uma **organização no GitHub** para o grupo e armazenar todo o código nela. Incluir **rafapcmor** na organização. 
    - Utilizar **GitHub Projects** para o gerenciamento de tarefas (colunas: Backlog, Em Progresso, Revisão, Concluído).  
    - Distribuir tarefas e responsáveis de forma equilibrada.
    - Preencher forms: https://forms.office.com/r/N0EwrjzHXz
