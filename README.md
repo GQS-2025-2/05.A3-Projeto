@@ -23,7 +23,7 @@ O projeto deve ter **funcionalidades claras e testes automatizados** com base em
 1. **Data da Apresentação:** 26/11/25  
 
 2. **Grupo & Organização**  
-   - Máximo de **6 integrantes**.  
+   - Máximo de **8 integrantes**.  
    - Criar uma **organização no GitHub** para o grupo e armazenar todo o código nela.  
    - Utilizar **GitHub Projects** para o gerenciamento de tarefas (colunas: Backlog, Em Progresso, Revisão, Concluído).  
    - Distribuir tarefas e responsáveis de forma equilibrada.
