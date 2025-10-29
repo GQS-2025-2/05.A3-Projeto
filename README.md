@@ -14,12 +14,7 @@ O projeto deve ter **funcionalidades claras e testes automatizados** com base em
 - Criar e aplicar **testes unitários**.  
 - Implementar práticas de **BDD (Behavior Driven Development)**.  
 - Documentar todo o projeto em **README.md**, seguindo boas práticas.  
-- Elaborar uma **apresentação** (slides) com:
-  - Introdução  
-  - Motivação  
-  - Desenvolvimento  
-  - Resultados  
-  - Considerações Finais  
+- Elaborar uma **apresentação** (slides)
 
 ---
 
